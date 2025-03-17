@@ -12,9 +12,11 @@
   "dependencies": {
     "@iconify/react": "^5.2.0",
     "@radix-ui/themes": "^3.2.1",
+    "@tailwindcss/vite": "^4.0.14",
     "ethers": "^6.13.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.14",
     "viem": "^2.23.11",
     "wagmi": "^2.14.13"
   },
